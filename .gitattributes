@@ -1,5 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-D:/DIVYA/Data[[:space:]]Analytics/NoviTech[[:space:]]6[[:space:]]Month[[:space:]]Training[[:space:]]Projects/3.[[:space:]]Tableau/Global[[:space:]]Fashion[[:space:]]Retail[[:space:]]Sales[[:space:]]Data.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
